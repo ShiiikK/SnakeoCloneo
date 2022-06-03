@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MazeWalker
+namespace SnakeoCloneo
 {
     public partial class Spielfeld : Form
     {

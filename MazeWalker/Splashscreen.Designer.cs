@@ -1,4 +1,4 @@
-﻿namespace MazeWalker
+﻿namespace SnakeoCloneo
 {
     partial class Splashscreen
     {

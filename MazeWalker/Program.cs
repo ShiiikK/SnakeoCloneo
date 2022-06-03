@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MazeWalker
+namespace SnakeoCloneo
 {
     internal static class Program
     {
